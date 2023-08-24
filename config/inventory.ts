@@ -58,22 +58,22 @@ export const inventory: InventoryProduct[] = [
     colors: ["blue"],
     currency: "USD",
   },
-  {
-    id: "e882fe48-253c-40fb-8155-51b47b063c1a",
-    sku: "braided_leather_belt_1",
-    name: "Braided Leather Belt",
-    description: `These handsome leather belts are guaranteed to pull together any outfit. They're made of vegetable-tanned Italian leather, which means they have natural highs and lows of color and will look even better over time.`,
-    price: 4999,
-    image:
-      "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/braided-leather-belt.jpg",
-    images: [
-      "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/braided-leather-belt.jpg",
-    ],
-    sizes: ["s", "m", "l", "xl"],
-    categories: ["belts"],
-    colors: ["brown"],
-    currency: "USD",
-  },
+  // {
+  //   id: "e882fe48-253c-40fb-8155-51b47b063c1a",
+  //   sku: "braided_leather_belt_1",
+  //   name: "Braided Leather Belt",
+  //   description: `These handsome leather belts are guaranteed to pull together any outfit. They're made of vegetable-tanned Italian leather, which means they have natural highs and lows of color and will look even better over time.`,
+  //   price: 4999,
+  //   image:
+  //     "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/braided-leather-belt.jpg",
+  //   images: [
+  //     "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/braided-leather-belt.jpg",
+  //   ],
+  //   sizes: ["s", "m", "l", "xl"],
+  //   categories: ["belts"],
+  //   colors: ["brown"],
+  //   currency: "USD",
+  // },
   {
     id: "6853a582-fc95-44af-9dac-dffbc694b47d",
     sku: "woolblend_suit_belt_1",
